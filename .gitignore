@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.py[cod]
+logs/
+chat_exports/
+chromadb_store/
+chroma_db/
+.DS_Store
